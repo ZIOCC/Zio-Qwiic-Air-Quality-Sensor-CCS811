@@ -1,6 +1,6 @@
 # Zio Qwiic Air Quality Sensor (CCS811)
 
-![](air-qudality-ccs811-sensor.png)
+![](air-quality-ccs811-sensor.png)
 
 > This product can be available for purchase [here](https://www.smart-prototyping.com/Zio-Qwiic-Air-Quality-Sensor-CCS811).
 
